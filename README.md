@@ -1,1 +1,1 @@
-# warsztat-badacza-danych
+# warsztat-badacza-danych-2022
